@@ -1,13 +1,16 @@
-- delete employee button
+[CRUD]
 - edit employee details
 - view employee details page
-- plugin
+[VIEW]
 - search filter
 - sort
+[UX]
 - confirm before delete
-- photo upload
-- setup playwright
-- setup vitest
-- add react-hook-form
 - add zod
 - add a dialog from radix
+[TEST]
+- setup playwright
+- setup vitest
+[NTH]
+- photo upload
+- plugin
