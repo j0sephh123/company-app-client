@@ -1,0 +1,13 @@
+- delete employee button
+- edit employee details
+- view employee details page
+- plugin
+- search filter
+- sort
+- confirm before delete
+- photo upload
+- setup playwright
+- setup vitest
+- add react-hook-form
+- add zod
+- add a dialog from radix
